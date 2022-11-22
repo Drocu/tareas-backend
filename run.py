@@ -108,4 +108,4 @@ def deleteTarea(id):
     
     return jsonify(context)
 
-app.run(debug=True)
+#app.run(debug=True)
