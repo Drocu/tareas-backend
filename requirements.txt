@@ -5,3 +5,4 @@ marshmallow-sqlalchemy
 mysqlclient
 python-dotenv
 flask-cors
+gunicorn
