@@ -6,3 +6,4 @@ mysqlclient
 python-dotenv
 flask-cors
 gunicorn
+psycopg2
